@@ -2,7 +2,7 @@
 layout: post
 title:  "Conhecendo e manipulando listas no C#"
 date:   2024-06-21 20:43:00 -0300
-categories: welcome
+categories: programação, c#, .net
 ---
 
 ## O que são listas
