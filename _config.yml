@@ -23,7 +23,7 @@ email: aumiguel.to@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   O principal objetivo desse blog é ter um repositório onde irei armazenar assuntos que eu estou estudando sobre programação, os assuntos serão variádos e provavelmente não vai ter uma linha cronológica como um curso. Eu simplesmente vou escrever sobre assuntos que eu estou estudando pois eu acredito que com a escrita eu conseguirei aprender mais.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://aurelio-miguel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  aurelio-miguel
